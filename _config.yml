@@ -1,0 +1,30 @@
+theme: "minima"
+
+title: "My Blogs Name"
+author: "Default Author Name"
+email: "example@mail.com"
+description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+
+# Social media user names used by the minima theme:
+twitter_username: "twitteruser"
+github_username: "githubuser"
+linkedin_username: "linkedinuser"
+
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other

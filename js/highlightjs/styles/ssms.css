@@ -1,0 +1,51 @@
+.hljs.language-tsql {
+    display: block;
+    overflow-x: auto;
+    padding: 0.5em;
+    background: white;
+    color: #808080;
+}
+
+.language-tsql .hljs-keyword {
+    color: #0000ff;
+    font-weight: normal;
+}
+
+.language-tsql .hljs-built_in {
+    color: #ff00ff;
+}
+
+.language-tsql .hljs-type {
+    color: #008000;
+    font-weight: normal;
+}
+
+.language-tsql .hljs-function {
+    color: #800000;
+}
+
+.language-tsql .hljs-number {
+    color: #000000;
+}
+
+.language-tsql .hljs-string {
+    color: #ff0000;
+}
+
+.language-tsql .hljs-symbol {
+    color: #000000;
+}
+
+.language-tsql .hljs-comment {
+    color: #008000;
+    font-style: normal;
+}
+
+.language-tsql .hljs-meta {
+    background: #cdcdcd;
+    color: #000000;
+}
+
+.language-tsql .hljs-literal {
+    color: #808080;
+}
