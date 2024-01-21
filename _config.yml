@@ -20,7 +20,7 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
